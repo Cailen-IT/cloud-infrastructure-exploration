@@ -9,5 +9,5 @@ Foundational project exploring cloud computing and IT infrastructure concepts.
 - SQL database interaction
 - Cloud service models (IaaS, PaaS, SaaS)
 
-## Outcome
+# Outcome
 Understanding of how cloud systems, networks, and databases work together in modern IT environments.
