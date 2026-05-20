@@ -1,13 +1,15 @@
-# Cloud Computing Basics
+# System Architecture Basics
 
-## IaaS (Infrastructure as a Service)
-Provides virtual machines, storage, and networking.
+## Client-Server Model
+Clients send requests, servers process and return responses.
 
-## PaaS (Platform as a Service)
-Allows developers to deploy applications without managing infrastructure.
+## Cloud Architecture
+Cloud systems distribute computing resources across remote servers.
 
-## SaaS (Software as a Service)
-Software delivered over the internet (e.g. Gmail, Google Drive).
+## Key Components
+- Compute (processing power)
+- Storage (data management)
+- Networking (communication between systems)
 
-## Key Idea
-Cloud computing enables on-demand access to computing resources over the internet.
+## Importance
+System architecture defines how scalable, reliable, and efficient an application or service is.
