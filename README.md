@@ -1,13 +1,19 @@
 # Cloud & Infrastructure Exploration Project
 
 # Overview
-Foundational project exploring cloud computing and IT infrastructure concepts.
+This project demonstrates foundational knowledge of cloud computing and IT infrastructure, focusing on how modern systems are designed, connected, and managed.
 
-# Focus Areas
-- Linux command-line basics
-- Networking fundamentals (IP, DNS, HTTP/HTTPS)
-- SQL database interaction
-- Cloud service models (IaaS, PaaS, SaaS)
+# Objectives
+- Understand cloud computing models (IaaS, PaaS, SaaS)
+- Gain familiarity with Linux command-line operations
+- Learn basic networking concepts (IP, DNS, HTTP/HTTPS)
+- Practice SQL queries for database interaction
 
-# Outcome
-Understanding of how cloud systems, networks, and databases work together in modern IT environments.
+# Tools & Concepts
+- Linux Terminal
+- SQL
+- Networking Fundamentals
+- Cloud Computing Principles
+
+# Key Learning Outcome
+Developed a foundational understanding of how cloud systems, networks, and databases integrate within real-world IT environments.
