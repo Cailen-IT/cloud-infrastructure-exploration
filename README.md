@@ -26,6 +26,11 @@ Practical experience with:
 - Data insertion and retrieval
 - Joins, filtering, and basic aggregation queries
 
+# 📸 Screenshots
+
+# Linux Command Line
+![Linux Terminal](screenshots/linux-terminal.png)
+
 # Tools Used
 - SQL
 - Linux command line
